@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SimonLombok:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SimonLombok_jar</output-path>
+    <root id="archive" name="SimonLombok.jar">
+      <element id="module-output" name="SimonLombok" />
+    </root>
+  </artifact>
+</component>
